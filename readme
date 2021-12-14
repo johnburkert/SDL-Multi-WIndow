@@ -1,0 +1,8 @@
+
+This program opens full screen sdl windows on multiple monitors and reacts to mouse input on each window.
+
+To install build environment on Ubuntu:
+
+sudo apt-get install clang
+sudo apt-get install build-essentials
+sudo apt-get install libsdl2-dev
